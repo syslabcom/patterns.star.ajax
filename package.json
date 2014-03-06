@@ -1,0 +1,21 @@
+{
+  "name": "ajax",
+  "version": "1.0",
+  "description": "A library to make and mock ajax calls",
+  "author": {
+    "name": "Florian Friesdorf",
+    "email": "flo@chaoflow.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:syslabcom/patterns.star.ajax.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "patterns.star.ajax",
+  "version": "1.0",
+  "homepage": "https://github.com/syslabcom/patterns.star.ajax",
+  "authors": [
+    "Florian Friesdorf <flaoflow.net>"
+  ],
+  "description": "A library to make and mock ajax calls",
+  "main": "ajax.js",
+  "keywords": [
+    "patterns",
+    "ajax"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": { }
+}
